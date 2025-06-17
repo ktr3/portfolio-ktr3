@@ -1,28 +1,14 @@
-# Portfolio de KTR3SS
+# 🎮 Portfolio Interactivo — KTR3SS
 
-🎯 Sitio web personal de [KTR3SS](https://cv.ktr3.es), desarrollador web y especialista en automatizaciones con IA.
+Bienvenido a mi mundo digital.  
+Este portfolio está diseñado como un **videojuego interactivo** con desplazamiento horizontal, donde puedes recorrer mi recorrido profesional como si jugaras.
 
 ## 🚀 Tecnologías utilizadas
 
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [TypeScript](https://www.typescriptlang.org/)
+- ⚛️ [React](https://react.dev/) — Librería principal
+- 💨 [Tailwind CSS](https://tailwindcss.com/) — Estilado moderno y responsivo
+- 🎞️ [Framer Motion](https://www.framer.com/motion/) — Animaciones fluidas y naturales
+- ⚡ [Vite](https://vitejs.dev/) — Compilador ultrarrápido
 
-## 🌐 Visítalo en producción
+## 🧱 Estructura
 
-👉 [https://cv.ktr3.es](https://cv.ktr3.es)
-
-## 📂 Estructura del proyecto
-
-```bash
-.
-├── src/
-│   ├── components/      # Componentes reutilizables
-│   ├── pages/           # Secciones del portfolio
-│   └── styles/          # Estilos generales
-├── public/              # Archivos estáticos
-├── dist/                # Carpeta generada tras el build
-├── tailwind.config.js
-├── vite.config.ts
-└── package.json

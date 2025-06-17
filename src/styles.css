@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  scroll-snap-type: x mandatory;
+}
+section {
+  scroll-snap-align: start;
+}
