@@ -1,14 +1,30 @@
-# 🎮 Portfolio Interactivo — KTR3SS
+# 🎮 Portfolio Interactivo - KTR3SS
 
-Bienvenido a mi mundo digital.  
-Este portfolio está diseñado como un **videojuego interactivo** con desplazamiento horizontal, donde puedes recorrer mi recorrido profesional como si jugaras.
+Bienvenido al portfolio de **KTR3SS**, un desarrollador web y creador de automatizaciones con IA.  
+Este proyecto está inspirado en un **videojuego de scroll horizontal**, combinando diseño atractivo y navegación animada.
+
+---
 
 ## 🚀 Tecnologías utilizadas
 
-- ⚛️ [React](https://react.dev/) — Librería principal
-- 💨 [Tailwind CSS](https://tailwindcss.com/) — Estilado moderno y responsivo
-- 🎞️ [Framer Motion](https://www.framer.com/motion/) — Animaciones fluidas y naturales
-- ⚡ [Vite](https://vitejs.dev/) — Compilador ultrarrápido
+- **React** (con Vite)
+- **Tailwind CSS**
+- **Framer Motion**
+- **TypeScript**
+- **Diseño responsivo y scroll horizontal**
 
-## 🧱 Estructura
+---
 
+## 🧩 Funcionalidades
+
+- Animaciones suaves al navegar
+- Efecto mapa estilo videojuego
+- Secciones: introducción, habilidades, proyectos y más
+- Preparado para incluir un personaje caminando (avatar animado)
+- Carga rápida y optimizada
+
+---
+
+🌐 Demo en vivo
+Accede al portfolio en:
+👉 https://cv.ktr3.es
